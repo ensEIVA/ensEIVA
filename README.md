@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there👋 This is my GitHub stats at EIVA
+
+
+![Emil Nordsted Sivertsen at EIVA GitHub stats](https://github-readme-stats.vercel.app/api?username=ensEIVA&show_icons=true&theme=transparent)
+
 
 <!--
 **ensEIVA/ensEIVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
