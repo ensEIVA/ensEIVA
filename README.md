@@ -1,20 +1,32 @@
-## Hi there👋 This is my GitHub stats at EIVA
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ensEIVA&show_icons=true&theme=radical&count_private=true)
 
+# Hi there, I’m ensEIVA 👋
 
-![Emil Nordsted Sivertsen at EIVA GitHub stats](https://github-readme-stats.vercel.app/api?username=ensEIVA&show_icons=true&theme=transparent)
+**Software Engineer & Frontend Specialist**
 
+---
+
+### 👨‍💻 About Me
+
+- 🚀 React, Vue, and TypeScript enthusiast  
+- 🛠 Building awesome UIs and scalable web apps  
+- 🌏 I like to run, code, and talk Chinese
+
+---
+
+### 🏆 Favorite Project
+
+[**NaviSuite.FrontendConfiguration**](https://github.com/eivacom/NaviSuite.FrontendConfiguration)  
+_A powerful configuration frontend for NaviSuite solutions_
+
+---
+
+### 📈 More Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ensEIVA&layout=compact&theme=radical)
+
+---
 
 <!--
-**ensEIVA/ensEIVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can add more sections like 'Connect with me' or 'Pinned Projects' here as you grow your profile!
 -->
